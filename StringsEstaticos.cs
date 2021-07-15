@@ -11,5 +11,7 @@ namespace EjemploMedico
         public const string S_NOMBRE = "Ingrese segundo nombre";
         public const string P_APELLIDO = "Ingrese primer apellido";
         public const string S_APELLIDO= "Ingrese segundo apellido";
+        public const string P_EDAD = "Ingrese la edad";
+        public const string FRP_SUBMIT = "Registrar paciente";
     }
 }
